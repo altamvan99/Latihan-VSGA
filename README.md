@@ -1,0 +1,2 @@
+# Latihan-VSGA
+vsga
